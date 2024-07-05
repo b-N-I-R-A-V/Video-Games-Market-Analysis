@@ -14,13 +14,7 @@ The majority of this project was done using Microsoft Excel. This includes the d
 The dataset used for this analysis comes from VGChartz. Here is the link to the dataset. [VGChartz Dataset Link](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
 
 ## Challenges
-1. Reliability of Software Sales Estimates: VGChartz no longer estimates how much software is sold, as digital sales have become more significant and challenging to track accurately. They now only record official shipment and sales data provided by developers and publishers.
-
-2. Hardware Sales Estimates: VGChartz continues to estimate hardware sales weekly, using retail samples and trends in individual countries to extrapolate figures for broader regions. These estimates typically fall within 10% of actual totals.
-
-3. Comparison and Updating: VGChartz regularly compares its sales estimates against official figures released by console manufacturers and regional trackers like Famitsu and NPD. They adjust their estimates accordingly to improve accuracy, which can lead to frequent updates.
-
-4. Sell-through vs. Sell-in Data: VGChartz's estimates are based on sell-through data (units sold to consumers), while console manufacturers often report sell-in data (units shipped to retailers). This difference means VGChartz's figures may not always match official manufacturer data, except when discontinued consoles have completely sold out.
+The dataset from VGChartz has limitations because it no longer estimates software sales due to the complexity of tracking digital sales reliably. Hardware sales estimates are based on retail sampling and may vary up to 10% from actual totals. The data is frequently updated to match official figures but can fluctuate, and there's a difference between VGChartz's sell-through data and manufacturers' sell-in data, except when consoles are discontinued.
 
 # Key Questions
 The following were the most important questions that we answered through the analysis:
