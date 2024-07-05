@@ -28,6 +28,8 @@ The following were the most important questions that we answered through the ana
 * Are certain types of games more popular than others?
 * What other publishers will likely be the main competitors in certain markets?
 * How have their sales figures varied between geographic regions over time?
+
+One of the assumptions from the stakeholders was that the market share remained the same for the 4 different regions highlighed in the dataset. This was effectively debunked with the help of the following line chart. This helped in improving our understanding about the market.
+<div align="center">
 <img width="683" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Games-Market-Analysis/assets/153047871/73fab36a-e7fb-46cc-9254-300083b62876">
-
-
+</div>
