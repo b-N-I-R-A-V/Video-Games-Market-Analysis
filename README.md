@@ -12,7 +12,16 @@ The majority of this project was done using Microsoft Excel. This includes the d
 
 # Dataset
 The dataset used for this analysis comes from VGChartz. Here is the link to the dataset. [VGChartz Dataset Link](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
-Before doing aggregation, summarization, or analysis, it was important to have a look at the data and understanding what kind of information do I have. This helped me set up my mind on what type information am I working with and be prepared. Further, doing this process made it clear what type of questions will I be able to answer and which questions will not be answered by this analysis. In other words, I discovered the limitations of the dataset. Moreover, to check for biases I explored the source of the dataset as it was important to look for any biases present in the dataset as biases often yields misleading conclusions
+
+## Challenges
+1. Reliability of Software Sales Estimates: VGChartz no longer estimates how much software is sold, as digital sales have become more significant and challenging to track accurately. They now only record official shipment and sales data provided by developers and publishers.
+
+2. Hardware Sales Estimates: VGChartz continues to estimate hardware sales weekly, using retail samples and trends in individual countries to extrapolate figures for broader regions. These estimates typically fall within 10% of actual totals.
+
+3. Comparison and Updating: VGChartz regularly compares its sales estimates against official figures released by console manufacturers and regional trackers like Famitsu and NPD. They adjust their estimates accordingly to improve accuracy, which can lead to frequent updates.
+
+4. Sell-through vs. Sell-in Data: VGChartz's estimates are based on sell-through data (units sold to consumers), while console manufacturers often report sell-in data (units shipped to retailers). This difference means VGChartz's figures may not always match official manufacturer data, except when discontinued consoles have completely sold out.
+
 # Key Questions
 The following were the most important questions that we answered through the analysis:
 * Are certain types of games more popular than others?
