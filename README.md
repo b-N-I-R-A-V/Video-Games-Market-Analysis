@@ -30,7 +30,8 @@ The following were the most important questions that we answered through the ana
 * How have their sales figures varied between geographic regions over time?
 
 # Results
-Below are excerpts from the presentation file. The presentation file contains all of the results and recommendations.
+Below are excerpts from the presentation file. The presentation file contains all of the results and recommendations. I recommend you to go through the video game market analysis presentation file to develop a complete understanding of the results.
+
 One of the assumptions from the stakeholders was that the market share remained the same for the 4 different regions highlighed in the dataset. This was effectively debunked with the help of the following line chart. This helped in improving our understanding about the market.
 <div align="center">
 <img width="683" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Games-Market-Analysis/assets/153047871/73fab36a-e7fb-46cc-9254-300083b62876">
@@ -39,5 +40,5 @@ Globally, the top 4 genres were Action, Shooter, Sports, and Role-Playing. In co
 <div align="center">
 <img width="713" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Games-Market-Analysis/assets/153047871/f8fd3165-0c1b-4e5c-8012-3cf3ee7cce59">
 </div>
-I recommend you to go through the video game market analysis presentation file to develop a complete understanding of the results.
-Here is the link of presentation file. 
+
+
