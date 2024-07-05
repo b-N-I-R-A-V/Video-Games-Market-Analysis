@@ -40,4 +40,4 @@ Globally, the top 4 genres were Action, Shooter, Sports, and Role-Playing. In co
 <img width="713" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Games-Market-Analysis/assets/153047871/f8fd3165-0c1b-4e5c-8012-3cf3ee7cce59">
 </div>
 I recommend you to go through the video game market analysis presentation file to develop a complete understanding of the results.
-Here is the link of presentation file. [Video Game Market Presentation](https://github.com/b-N-I-R-A-V/Video-Games-Market-Analysis/blob/main/Presentation%20of%20Market%20Analysis.pdf)
+Here is the link of presentation file. [Video Game Market Presentation](Presentation of Market Analysis.pdf)
