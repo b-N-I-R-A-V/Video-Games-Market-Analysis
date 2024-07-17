@@ -87,15 +87,49 @@ If we look at proportion of market occupied by these geographical regions we hav
 </p>
 Sales in North American region had dropped from 93% to 32% whereas sales in Japan and Europe had increased. Moreover, present market share (2016) of Europe (38%) and North America (32%) is closer than ever in history.
 
-Below are excerpts from the presentation file. The presentation file contains all of the results and recommendations. I recommend you to go through the video game market analysis presentation file to develop a complete understanding of the results.
+### Competition in this Market
+I then looked at the market competition and identified the top 10 competitors.
+<p align = "center">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/aa128a3a-9027-43cf-b224-bfef331dd4d0">
+</p>
 
-One of the assumptions from the stakeholders was that the market share remained the same for the 4 different regions highlighed in the dataset. This was effectively debunked with the help of the following line chart. This helped in improving our understanding about the market.
-<div align="center">
-<img width="683" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Games-Market-Analysis/assets/153047871/73fab36a-e7fb-46cc-9254-300083b62876">
-</div>
-Globally, the top 4 genres were Action, Shooter, Sports, and Role-Playing. In contrast, least preferred genres were Puzzle and Strategy.
-<div align="center">
-<img width="713" alt="image" src="https://github.com/b-N-I-R-A-V/Video-Games-Market-Analysis/assets/153047871/f8fd3165-0c1b-4e5c-8012-3cf3ee7cce59">
-</div>
+In the past 10 years, Nintendo was the highest selling publisher (830.96 million), followed by Electronic Arts (660.98 million), followed by Activision (522.09 million), followed by Ubisoft (390.12 million).
+
+**Sales of Top 4 Publishers:**
+If we look at the sales of top 4 competitors in the last 10 years, we have the following observation:
+<p align = "center">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/9e694171-5ebe-41ce-9306-8c7020f0519f">
+</p>
+
+- Sales for each of them fell considerably. Highest selling publisher, Nintendo, became the least selling publisher in 10 years span from 205.61 million sales to just 3.67 million sales.
 
 
+**Popular Genres for Nintendo**
+Finally, I focused on the popular genres for Ninetendo. 
+
+<p align = "center">
+ <img width="80%" alt="image" src="https://github.com/user-attachments/assets/b61a5027-33eb-4dfb-81cf-24af2f63a770">
+</p>
+
+- The total sales figure for Nintendo was 830.96 million between 2006-2016, out of which more than half the sales (474.39 million) came from three genre namely, Sports, Platform, and Role-Playing.
+- As we have seen earlier, Sports and Role-Playing were among the top 4 genre by sales.
+
+
+## Conclusion and Recommendations
+
+### Revised Understanding
+
+We have the following fact that has given us an improved understanding of the Video Games Market:
+- Considering the data presented it challenges the assumptions we made earlier that all the regions hold the same share of market. North America holds 32%, Europe 38%, Japan holds 19%, and other holds 11%.
+- Action, Shooter, Sports, and Role-playing were the top selling genres. Action having the maximum number of sales due to more titles released and Shooter had the maximum average sale for a title.
+- Nintendo, Electronic Arts, Activision, and Ubisoft has been the top publishers in last 10 years.
+- Nintendo lost he most market share, sales dropped by approx. 98.2%. Sports, Platform, and Role-Playing were the top selling genre for Nintendo.
+
+### Recommendations
+
+I have three recommendations for GamesCo. They are as follows:
+- We recommend that GameCo focus more on Action, Shooter, Sports, and Role-playing genre as these were top selling genre with special attention to shooter genre.
+- GameCo could also focus more on genre such as Sports and Role Playing as they were top selling for Nintendo to capitalize on the opportunity.
+- Europe and North America are having most of the share of global market and more attention to these markets could be given.
+
+I hope you have found something useful. If you have any questions or suggestions for me, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](mailto:nkb.bariya@gmail.com) me.  Have a great rest of the day!
