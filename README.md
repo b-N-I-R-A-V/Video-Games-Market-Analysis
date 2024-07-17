@@ -66,7 +66,7 @@ Following were my observations:
 
 I was interested then in understanding the cause behind popularity of action genre. I hypothesized that maybe there are just more number of titles in Action genre.
 <p align = "center">
-  <img width="674" alt="image" src="https://github.com/user-attachments/assets/32004fe2-da5b-4d27-bbc6-2237e26bdf72">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/32004fe2-da5b-4d27-bbc6-2237e26bdf72">
 </p>
 This graph explained why action genre was popular had so many sales.
 - There were 2327 titles under Action genre, more than 3 times the number of titles released under Shooter genre.
@@ -75,7 +75,7 @@ This graph explained why action genre was popular had so many sales.
 ## Marketshare of Geographical Regions
 I then shifted my attention to understanding global trends of sales.
 <p align ="center">
-  <img width="969" alt="image" src="https://github.com/user-attachments/assets/d0f721b5-b429-448f-a095-04f7f25b8d4c">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/d0f721b5-b429-448f-a095-04f7f25b8d4c">
 </p>
 
 - The graph shows an increase in sales for all regions upto year 2008- 2009.
@@ -83,7 +83,7 @@ I then shifted my attention to understanding global trends of sales.
 
 If we look at proportion of market occupied by these geographical regions we have the following observations to make:
 <p align = "center">
-  <img width="867" alt="image" src="https://github.com/user-attachments/assets/aa31b5b8-0145-4264-a868-39f17f73f15c">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/aa31b5b8-0145-4264-a868-39f17f73f15c">
 </p>
 Sales in North American region had dropped from 93% to 32% whereas sales in Japan and Europe had increased. Moreover, present market share (2016) of Europe (38%) and North America (32%) is closer than ever in history.
 
